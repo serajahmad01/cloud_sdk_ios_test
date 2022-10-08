@@ -1,7 +1,7 @@
 #!/bin/zsh
 
 VERSION="8.0.3"
-
+# checking
 # Update ROOT_URL
 ROOT_URL=""
 if [[ "$VERSION" == 7* ]]; then
